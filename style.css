@@ -1,0 +1,123 @@
+  body {
+  	background-color:#eeeeee;
+  	color: #393e46;
+  	font-family: Noto Sans JP;
+  }
+
+  h1, h2{
+  	color:#212121;
+  }
+
+  h2{
+  	font-weight:lighter;
+  }
+
+  a{
+  	text-decoration: none;
+  	color: #212121;
+  	font-weight:bolder;
+  	transition: color 0.3s ease;
+  }
+
+  a:hover{
+  	color:#ececeb;
+  }
+
+  /*Custom class design*/
+  .container{
+    width: 700px;
+    margin: 40px auto;
+  }
+
+  .card-white{
+    background:white;
+    padding: 30px 0px;
+    border-radius: 4px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+    text-align: center;
+    margin: 20px 0px;
+  }
+
+  .img-circle{
+    border-radius: 50%;
+  }
+
+  .btn-grey{
+    background-color: #a6b1e1;
+    padding: 10px 15px;
+    border-radius: 3px;
+ }
+
+
+ .list-inline{
+  list-style: none;
+  padding-left: 0px;
+ }
+
+ .list-inline li{
+  display: inline;
+  padding: 10px;
+ }
+
+ .list-inline i{
+  font-size: 50px;
+ }
+
+ #introduction p{
+  margin-bottom: 30px;
+ }
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
